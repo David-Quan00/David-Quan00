@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋
+### I'm studying Math🧮 and Statistics🎲 at UofT
 
 <!--
 **David-Quan00/David-Quan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
