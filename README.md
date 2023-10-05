@@ -1,5 +1,5 @@
 ### Hi there! 👋
-### I'm studying Math🧮 and Statistics🎲 at UofT
+### As someone who studied Math🧮 and Statistics🎲, I enjoy using data and code to help make optimal decisions and ultimately learn more about the intricate world we live in.
 
 <!--
 **David-Quan00/David-Quan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
